@@ -1,5 +1,8 @@
-# viertual environment
+# virtual environment
 venv/
 
 # db credentials
 credentials.json
+
+# Python files
+scripts/__pycache__/
