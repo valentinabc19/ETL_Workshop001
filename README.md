@@ -47,7 +47,7 @@ The dataset contains **50,000 records** with the following fields:
 
 ### **1. Clone the Repository**  
 ```bash  
-git clone [https://github.com/valentinabc19/ETL_Workshop001]
+git clone https://github.com/valentinabc19/ETL_Workshop001
 ```  
 
 ### **2. Create a Virtual Environment**  
