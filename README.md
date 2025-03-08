@@ -1,4 +1,4 @@
-# Workshop00
+# Workshop001
 
 **Developed by**  
 * [Valentina Bueno Collazos](https://github.com/valentinabc19)  
@@ -47,7 +47,7 @@ The dataset contains **50,000 records** with the following fields:
 
 ### **1. Clone the Repository**  
 ```bash  
-git clone https://github.com/your-repo/candidate-hiring-analytics.git  
+git clone (https://github.com/valentinabc19/ETL_Workshop001)
 ```  
 
 ### **2. Create a Virtual Environment**  
@@ -73,7 +73,6 @@ Create a `credentials.json` file in the project root:
 ```bash  
 pip install -r requirements.txt  
 ```  
-**Dependencies**: `pandas`, `sqlalchemy`, `psycopg2-binary`, `jupyter`, `python-dotenv`.  
 
 ### **5. Run Jupyter Notebooks**  
 Execute in order:  
