@@ -95,4 +95,3 @@ Execute in order:
 ---
 
 **Note**: Ensure PostgreSQL is running and accessible during execution. For detailed visualization guidelines, refer to the [analysis document](link-to-analysis.md).  
-```
